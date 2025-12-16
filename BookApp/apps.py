@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class BookAppConfig(AppConfig):
+class BookappConfig(AppConfig):
     name = 'BookApp'
